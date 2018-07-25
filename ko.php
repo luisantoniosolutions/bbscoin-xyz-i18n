@@ -2,7 +2,7 @@
 if(!defined('IN_HOME')) exit;
 
 $lang = array_merge($lang, [
-'html_lang' => 'kor',
+'html_lang' => 'ko',
 'html_dir' => 'ltr', //left to right
 'description' => 'BBSCoin [BBS]는 포럼 및 웹사이트의 가상 크레딧 교환을 위한 암호화폐 입니다',
 'keywords' => 'BBSCoin,coin,cryptocurrency',
